@@ -1,0 +1,19 @@
+ml_app.visualize
+================
+
+.. py:module:: ml_app.visualize
+
+
+Functions
+---------
+
+.. autoapisummary::
+
+   ml_app.visualize.main
+
+
+Module Contents
+---------------
+
+.. py:function:: main()
+

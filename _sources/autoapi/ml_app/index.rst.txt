@@ -1,0 +1,18 @@
+ml_app
+======
+
+.. py:module:: ml_app
+
+
+Submodules
+----------
+
+.. toctree::
+   :maxdepth: 1
+
+   /autoapi/ml_app/__main__/index
+   /autoapi/ml_app/inference/index
+   /autoapi/ml_app/train/index
+   /autoapi/ml_app/visualize/index
+
+
