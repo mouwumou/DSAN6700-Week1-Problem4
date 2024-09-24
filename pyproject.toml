@@ -1,0 +1,23 @@
+[tool.poetry]
+name = "ml_app"
+version = "0.1.0"
+description = "This is the ML App for problem 4 Week1 DSAN6700"
+authors = ["mouwumou <mouwumou@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+scikit-learn = "^1.5.2"
+
+[tool.poetry.group.doc.dependencies]
+myst-nb = {version = "^1.1.1", python = "^3.9"}
+sphinx-autoapi = "^3.3.1"
+sphinx-rtd-theme = "^2.0.0"
+myst-parser = "3.0.1"
+
+
+[tool.poetry.group.dev.dependencies]
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
